@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 26,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-seishonagon-0001",
@@ -408,7 +411,7 @@
   "blocks": 26,
   "chars": 600,
   "poems": 26,
-  "yaku": 0,
+  "yaku": 26,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T19:40:42+09:00"
